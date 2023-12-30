@@ -7,7 +7,7 @@ Nodes:
   -
     PanelType: "NewV2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "https://panel.skrspc.com"
+      ApiHost: "https://api.skrspc.com"
       ApiKey: "15991549271599154927"
       NodeID: 1
       NodeType: Shadowsocks # Node type: V2ray, Shadowsocks, Trojan
